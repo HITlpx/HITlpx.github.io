@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-![zhuye](/images/zy.png)
+![zhuye](/images/zhuy.png)
