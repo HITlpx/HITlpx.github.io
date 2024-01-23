@@ -83,11 +83,11 @@ author:
   name             : "李鹏翔"
   avatar           : "touxiang.png"
   bio              : "光荣在于平淡，艰巨在于漫长"
-  微信             : "weixin"
+  Location         : "哈尔滨工业大学"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "dpfxlpx@126.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
