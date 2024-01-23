@@ -83,11 +83,11 @@ author:
   name             : "李鹏翔"
   avatar           : "touxiang.png"
   bio              : "光荣在于平淡，艰巨在于漫长"
-  Location         : "https://www.hit.edu.cn/"
+  location         : "https://www.hit.edu.cn/"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "dpfxlpx@126.com"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
