@@ -1,11 +1,11 @@
 ---
-title: "国家级"
+title: "Teaching experience 2"
 collection: teaching
-type: ""
+type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: ""
-date: 
-location: ""
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
 国家级：
