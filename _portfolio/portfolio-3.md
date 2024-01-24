@@ -1,5 +1,5 @@
 ---
-title: "软件工具掌握"
-excerpt: "COMSOL, Multisim, Keil, Altium Designer, Origin, SoildWorks"
+title: "程序编写及优化"
+excerpt: "MATLAB, C/C++, Python, Labview"
 collection: portfolio
 ---
