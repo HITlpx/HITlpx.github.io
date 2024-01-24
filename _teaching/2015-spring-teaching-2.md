@@ -1,10 +1,10 @@
 ---
 title: "国家级奖项"
 collection: teaching
-type: "Workshop"
+type: "National"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Harbin Institute of Technology"
+date: 2021~2023
 location: "City, Country"
 ---
 国家级：
