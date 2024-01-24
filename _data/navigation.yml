@@ -4,13 +4,13 @@ main:
     url: /publications/
 
   - title: "荣誉奖励"
-    url: /talks/    
+    url: /portfolio/    
 
   - title: "科创竞赛"
     url: /teaching/    
     
   - title: "项目经历"
-    url: /portfolio/
+    url: /talks/
         
   - title: "论文&专利"
     url: /year-archive/
