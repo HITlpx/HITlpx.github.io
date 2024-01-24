@@ -13,3 +13,6 @@ location: "City, Country"
 3. “高教社杯”全国大学生数学建模竞赛国家级二等奖
 4. 第七届中国（国际）传感器创新创业大赛国家级二等奖
 
+![guojiaji](/images/kcjs.png)
+======
+
