@@ -2,7 +2,7 @@
 title: "省部级奖项"
 collection: teaching
 type: "Provincial"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "Harbin Institute of Technology"
 date: 2024-01-01
 location: "City, Country"
