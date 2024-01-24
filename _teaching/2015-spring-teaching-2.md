@@ -4,7 +4,7 @@ collection: teaching
 type: "National"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Harbin Institute of Technology"
-date: 2021~2023-01-01
+date: 2024-01-01
 location: "City, Country"
 ---
 
