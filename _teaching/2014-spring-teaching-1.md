@@ -1,5 +1,5 @@
 ---
-title: "省部级"
+title: "省部级奖项"
 collection: teaching
 type: "Provincial"
 permalink: /teaching/2014-spring-teaching-1
