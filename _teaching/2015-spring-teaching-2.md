@@ -1,23 +1,13 @@
----
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
----
-
 国家级：
----
+
 1. 第七届中国（国际）传感器创新创业大赛国家级一等奖
 2. 第十六届全国大学生节能减排社会实践与科技竞赛国家级一等奖
 3. “高教社杯”全国大学生数学建模竞赛国家级二等奖
 4. 第七届中国（国际）传感器创新创业大赛国家级二等奖
 
----
+
 省部级：
----
+
 1. 2022年中国大学生物理学术竞赛（东北赛区）一等奖第一名
 2. 2023年中国（国际）传感器创新创业大赛东北赛区一等奖
 3. 2023年中国国际“互联网+”大学生创新创业大赛省级银奖
