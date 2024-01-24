@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "荣誉奖励"
-    url: /portfolio/    
+    url: /cv/    
 
   - title: "科创竞赛"
     url: /teaching/    
@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "专业技能"
-    url: /cv/
+    url: /portfolio/
     
   - title: "简历速览"
     url: /markdown/
