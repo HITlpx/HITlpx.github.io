@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-![rongyu](/images/ryjl.png)
+![rongyu](/images/rongyu.png)
