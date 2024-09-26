@@ -11,12 +11,7 @@ main:
     
   - title: "项目经历"
     url: /talks/
-        
-  - title: "论文&专利"
-    url: /year-archive/
     
   - title: "专业技能"
     url: /portfolio/
     
-  - title: "简历速览"
-    url: /markdown/
