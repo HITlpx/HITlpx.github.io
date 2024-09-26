@@ -7,4 +7,3 @@ redirect_from:
   - /markdown.html
 ---
 
-![jianli](/images/jianli.png)
