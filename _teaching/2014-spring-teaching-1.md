@@ -18,5 +18,4 @@ location: "City, Country"
 8. 2022年第二届全国大学生人工智能知识竞赛二等奖
 9. 2023年第十四届全国大学生数学竞赛（黑龙江省）二等奖
 
-![shengbuji](/images/sbj.png)
 ======
